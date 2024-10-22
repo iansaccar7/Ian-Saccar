@@ -1,8 +1,6 @@
 # Olá, Meu nome é Ian Saccar 👋  
 ### Web Developer 
 
-<img src="https://via.placeholder.com/800x200.png" alt="banner" width="100%" />
-
 Como desenvolvedor web, sou especialista em criar landing pages, e-commerce e muito mais. Com foco em **HTML, CSS, JavaScript, sou apaixonado por criar experiências centradas no usuário e alavancar a tecnologia para entregar soluções de alta qualidade.
 
 
